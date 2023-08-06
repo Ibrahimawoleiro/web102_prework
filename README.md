@@ -20,8 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='web102_prework/assets/codePathGifWalkthrough.gif' title='Video Walkthrough' width='100' alt='Video Walkthrough' />
- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+<img src='./assets/codePathGifWalkthrough.gif' title='Video Walkthrough' width='100' alt='Video Walkthrough' />
 
 GIF created with https://www.cockos.com/licecap/
 
